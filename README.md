@@ -1,1 +1,1 @@
-# Modelo-Computacional-Simulacão-com-planilhas
+# Modelo-Computacional-Simulação-com-planilhas
